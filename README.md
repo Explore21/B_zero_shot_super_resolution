@@ -1,2 +1,3 @@
 # B_zero_shot_super_resolution
- Simple implementation of http://www.weizmann.ac.il/math/irani/sites/math.irani/files/uploads/zssr_cameraready.pdf
+ Simple implementation of  “Zero-Shot” Super-Resolution using Deep Internal Learning
+
